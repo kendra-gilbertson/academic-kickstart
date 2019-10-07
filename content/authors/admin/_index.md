@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Director
 
 # Organizations/Affiliations
 organizations:
@@ -21,15 +21,15 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social media activism
+- Gender studies
+- Digital rhetoric
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Texts & Technology
+    institution: University of Central Florida
+    year: 2025
   - course: MA in Educational Leadership
     institution: University of Central Florida
     year: 2009
