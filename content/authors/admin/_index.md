@@ -47,7 +47,7 @@ social:
   link: https://twitter.com/kendradee03
 - icon: envelope
   icon_pack: fas
-  link: mailto:kendra.gilbertson@knights.ucf.education
+  link: mailto:kendra.gilbertson@knights.ucf.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/kendra-gilbertson
