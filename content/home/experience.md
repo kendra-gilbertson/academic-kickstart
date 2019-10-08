@@ -32,13 +32,28 @@ date_format = "Jan 2006"
   * Deploying
   """
 
+  [[experience]]
+    title = "Assistant Director, Academic Support Services"
+    company = "University of Central Florida"
+    company_url = ""
+    location = "Orlando"
+    date_start = "2016-02-01"
+    date_end = "2019-06-01"
+    description = """
+    Responsibilities include:
+
+    * Analysing
+    * Modelling
+    * Deploying
+    """
+
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Adjunct Instructor"
+  company = "University of Central Florida"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Orlando"
+  date_start = "2013-06-01"
+  date_end = "2017-08-31"
+  description = """SLS 1501 - Strategies for Student Success"""
 
 +++
