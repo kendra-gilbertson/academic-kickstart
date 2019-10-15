@@ -25,12 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
   [[experience]]
     title = "Assistant Director, Academic Support Services"
@@ -40,13 +34,7 @@ date_format = "Jan 2006"
     date_start = "2016-02-01"
     date_end = "2019-06-01"
     description = """
-    Responsibilities include:
-
-    * Analysing
-    * Modelling
-    * Deploying
-    """
-
+    
 [[experience]]
   title = "Adjunct Instructor"
   company = "University of Central Florida"
