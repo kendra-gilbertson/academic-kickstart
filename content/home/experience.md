@@ -37,11 +37,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Adjunct Instructor"
-  company = "University of Central Florida"
+  company = "College of Education"
   company_url = ""
-  location = "Orlando"
+  location = "Univesity of Central Florida"
   date_start = "2013-06-01"
   date_end = "2017-08-31"
-  description = """SLS 1501 - Strategies for Student Success"""
+  description = """"""
 
 +++
