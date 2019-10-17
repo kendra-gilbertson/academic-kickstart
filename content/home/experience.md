@@ -19,21 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Associate Director, Academic Advising"
-  company = "University of Central Florida"
+  company = "College of Arts & Humanities Student Advising"
   company_url = ""
-  location = "Orlando"
+  location = "University of Central Florida"
   date_start = "2019-06-01"
   date_end = ""
-  description = """Test"""
+  description = """"""
 
   [[experience]]
     title = "Assistant Director, Academic Support Services"
-    company = "University of Central Florida"
+    company = "College of Arts & Humanities Student Advising"
     company_url = ""
-    location = "Orlando"
+    location = "University of Central Florida"
     date_start = "2016-02-01"
     date_end = "2019-06-01"
-    description = """Test"""
+    description = """"""
 
 [[experience]]
   title = "Adjunct Instructor"
