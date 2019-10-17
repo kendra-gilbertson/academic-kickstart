@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Orlando"
   date_start = "2019-06-01"
   date_end = ""
-  description = """
+  description = """Test"""
 
   [[experience]]
     title = "Assistant Director, Academic Support Services"
@@ -33,8 +33,8 @@ date_format = "Jan 2006"
     location = "Orlando"
     date_start = "2016-02-01"
     date_end = "2019-06-01"
-    description = """
-    
+    description = """Test"""
+
 [[experience]]
   title = "Adjunct Instructor"
   company = "University of Central Florida"
