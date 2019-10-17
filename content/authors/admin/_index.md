@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Texts & Technology
     institution: University of Central Florida
-    year: 2025
+    year: 2022
   - course: MA in Educational Leadership
     institution: University of Central Florida
     year: 2009
