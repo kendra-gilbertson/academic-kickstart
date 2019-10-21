@@ -30,9 +30,6 @@ education:
   - course: PhD in Texts & Technology
     institution: University of Central Florida
     year: 2023
-  - course: Graduate Certificate in Professional Writing
-    institution: University of Central Florida
-    year: 2018  
   - course: MA in Educational Leadership
     institution: University of Central Florida
     year: 2009
