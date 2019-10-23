@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Social media activism
-- Gender studies
-- Digital rhetoric
+- Digital Rhetoric
+- Social Media Activism
+- Gender Studies
 
 education:
   courses:
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Kendra Gilbertson is the Associate Director in the College of Arts & Humanities Student Advising office at UCF. Her research interests include digital rhetoric, social media activism, hashtags, and gender studies.
+Kendra Gilbertson is the Associate Director in the College of Arts & Humanities Student Advising (CAHSA) office at the University of Central Florida (UCF). Her research interests include digital rhetoric, social media activism, hashtags, and gender studies.
