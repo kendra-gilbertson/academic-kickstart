@@ -26,22 +26,49 @@ date_format = "Jan 2006"
   date_end = ""
   description = """"""
 
-  [[experience]]
-    title = "Assistant Director, Academic Support Services"
-    company = "College of Arts & Humanities Student Advising"
-    company_url = ""
-    location = "University of Central Florida"
-    date_start = "2016-02-01"
-    date_end = "2019-06-01"
-    description = """"""
+[[experience]]
+  title = "Assistant Director, Academic Support Services"
+  company = "College of Arts & Humanities Student Advising"
+  company_url = ""
+  location = "University of Central Florida"
+  date_start = "2016-02-01"
+  date_end = "2019-06-01"
+  description = """"""
 
 [[experience]]
   title = "Adjunct Instructor"
-  company = "College of Education"
+  company = "College of Community Innovation & Education"
   company_url = ""
   location = "Univesity of Central Florida"
   date_start = "2013-06-01"
   date_end = "2017-08-31"
+  description = """"""
+
+[[experience]]
+  title = "Coordinator, Academic Advising Services"
+  company = "College of Arts & Humanities Student Advising"
+  company_url = ""
+  location = "University of Central Florida"
+  date_start = "2012-05-01"
+  date_end = "2016-02-01"
+  description = """"""
+
+[[experience]]
+  title = "Coordinator, Club Sports"
+  company = "Department of Athletics"
+  company_url = ""
+  location = "Stetson University"
+  date_start = "2010-07-01"
+  date_end = "2012-05-01"
+  description = """"""
+
+[[experience]]
+  title = "Coordinator, Academic Advising Services"
+  company = "College of Business Administration"
+  company_url = ""
+  location = "University of Central Florida"
+  date_start = "2009-05-01"
+  date_end = "2010-07-01"
   description = """"""
 
 +++
