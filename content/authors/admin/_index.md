@@ -53,7 +53,7 @@ social:
   link: https://github.com/kendra-gilbertson
 - icon: cv
   icon_pack: ai
-  link: files/Kendra Gilbertson_CV_pdf version.pdf
+  link: files/KendraGilbertsonCV.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
