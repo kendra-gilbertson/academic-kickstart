@@ -22,7 +22,7 @@ bio: My research interests include social media actvism, hashtag feminism, and g
 
 interests:
 - Social Media Activism
-- Hashtag Feminism 
+- Hashtag Feminism
 - Gender Equality in Sport
 
 education:
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Kendra Gilbertson is the Associate Director in the College of Arts & Humanities Student Advising (CAHSA) office at the University of Central Florida (UCF). Her research interests include digital rhetoric, social media activism, hashtags, and gender studies.
+Kendra Gilbertson is the Associate Director in the College of Arts & Humanities Student Advising (CAHSA) office at the University of Central Florida (UCF). Her research interests include social media activism, hashtag feminism, gender studies, and gender equality in sport.
