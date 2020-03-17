@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Why Fans #WontStopWatching: Budweiser Supports Gender Equality through Hashtag Feminism"
-event: Popular Culture Association National Conference
+event: 2020 Popular Culture Association National Conference [Cancelled due to COVID-19]
 event_url:
 location: Philadelphia, PA
 address:
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-04-17 - Cancelled due to COVID-19
+date: 2020-04-17
 #date_end: 2020-04-18
 all_day: false
 
