@@ -1,44 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "#SayHerName: Athlete Activism in the WNBA"
-event: IACS 2021 Summit
-event_url: https://www.communicationandsport.com/2021 
-location: Virtual
-address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
-summary:
-abstract:
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-03-07
-#date_end: 2020-04-18
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: 2019-10-21T20:27:38-04:00
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
 title: "Why Fans #WontStopWatching: Budweiser Supports Gender Equality through Hashtag Feminism"
-event: 2020 Popular Culture Association National Conference [Cancelled due to COVID-19]
+event: 2020 Popular Culture Association (PCA/ACA) National Conference [Cancelled due to COVID-19]
 event_url:
 location: Philadelphia, PA
 address:
